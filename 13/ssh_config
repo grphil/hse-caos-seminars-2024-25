@@ -1,0 +1,8 @@
+# inside ~/.ssh/config
+
+Host fuck
+	HostName 158.160.146.157
+	User grphil
+	ServerAliveCountMax 720
+    ServerAliveInterval 120
+    PubKeyAuthentication yes

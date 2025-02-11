@@ -1,0 +1,13 @@
+git fetch (обновить инфу про upstream)
+git pull origin master (скачать в текущую ветку изменения из upstream "origin" из ветки master)
+git checkout <branch> (поменять ветку)
+git merge <branch> (смерджить в текущую ветку изменения из branch)
+git commit
+git push origin <branch> (без --force)
+
+AMMEND
+git commit --ammend (заменить последний коммит этим, с текущей версией всех файлов)
+
+
+git stash
+git stash pop
