@@ -1,0 +1,8 @@
+/Users/grphil/Documents/hse/teaching/caos/20/build/CMakeFiles/main.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/CMakeFiles/test.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/CMakeFiles/edit_cache.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/CMakeFiles/rebuild_cache.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/tests/CMakeFiles/tests.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/tests/CMakeFiles/test.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/tests/CMakeFiles/edit_cache.dir
+/Users/grphil/Documents/hse/teaching/caos/20/build/tests/CMakeFiles/rebuild_cache.dir

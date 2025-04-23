@@ -1,0 +1,19 @@
+Start testing: Mar 20 18:40 MSK
+----------------------------------------------------------
+1/1 Testing: a
+1/1 Test: a
+Command: "/Users/grphil/Documents/hse/teaching/caos/20/build/tests/tests"
+Directory: /Users/grphil/Documents/hse/teaching/caos/20/build/tests
+"a" start time: Mar 20 18:40 MSK
+Output:
+----------------------------------------------------------
+Good
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"a" end time: Mar 20 18:40 MSK
+"a" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 20 18:40 MSK
